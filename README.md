@@ -1,5 +1,7 @@
 # TUGAS5
-
+    
+    PROGRAM MENGHITUNG NILAI MAHASISWA MENGGUNAKAN DICTIONARY
+    
 ## PROGRAM
 
 ![image](https://user-images.githubusercontent.com/123872661/218025568-954cb50d-a1aa-47f0-8125-062b6a2cd74f.png)
